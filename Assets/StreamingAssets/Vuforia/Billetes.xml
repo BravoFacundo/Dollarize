@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pesos_500_front" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_500_back" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_10_front_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_10_back_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_20_front_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_20_back_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_20_front" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_20_back" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_front_old2" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_back_old2" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_back_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_front_old" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_back" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_100_front" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_1000_back" size="2.000000 0.839286" />
+    <ImageTarget name="pesos_1000_front" size="2.000000 0.839286" />
+  </Tracking>
+</QCARConfig>
